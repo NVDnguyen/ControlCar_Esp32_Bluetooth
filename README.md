@@ -1,4 +1,4 @@
-**WhiTeCaT App Project Readme**
+
 
 ### Part 1: My App
 
